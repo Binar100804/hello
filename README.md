@@ -3,7 +3,6 @@
 - 👋 Hi, I’m Binar Nugroho
 - 👀 I’m interested in Programing language
 - 🌱 I’m currently learning Python 🐍
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> email : binarnugroho775@gmail.com
 
 <!---
